@@ -1,0 +1,5 @@
+{
+  "name": "ctf/sqli-login",
+  "description": "SQLi vulnerable login challenge",
+  "require": {}
+}
